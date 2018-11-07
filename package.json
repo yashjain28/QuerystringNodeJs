@@ -4,7 +4,8 @@
         "Code Services"
     ],
     "author": {
-        "email": "corenodejs@clearblade.com"
+        "email": "yjain@clearblade.com",
+        "name":"Yash Jain"
     },
     "clouds": [],
     "description": "Partial Implementation of NodeJs' querystring library",
@@ -29,5 +30,13 @@
     ],
     "protocols": [],
     "things": [],
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashjain28/QuerystringNodeJs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yashjain28/QuerystringNodeJs/issues"
+  },
+  "homepage": "https://github.com/yashjain28/QuerystringNodeJs#readme"
 }
