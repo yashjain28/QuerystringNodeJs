@@ -1,0 +1,33 @@
+{
+    "asset_types": [
+        "Code Libraries",
+        "Code Services"
+    ],
+    "author": {
+        "email": "corenodejs@clearblade.com"
+    },
+    "clouds": [],
+    "description": "Partial Implementation of NodeJs' querystring library",
+    "domains": [],
+    "gateways": [],
+    "image_url": "https://docs.clearblade.com/v/3/static/img/default_package.png",
+    "keywords": [
+        "clearblade",
+        "iot",
+        "platform",
+        "querystring",
+        "node",
+        "js",
+        "core",
+        "library"
+    ],
+    "license": "MIT",
+    "name": "QuerystringNodeJs",
+    "private": false,
+    "prog_lang": [
+        "javascript"
+    ],
+    "protocols": [],
+    "things": [],
+    "version": "1.0.0"
+}
