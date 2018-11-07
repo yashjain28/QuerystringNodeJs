@@ -1,0 +1,8 @@
+{
+    "api": "",
+    "dependencies": "",
+    "description": "Partial Implementation of NodeJs' querystring library",
+    "name": "QuerystringNodeJs",
+    "version": 6,
+    "visibility": "system"
+}
