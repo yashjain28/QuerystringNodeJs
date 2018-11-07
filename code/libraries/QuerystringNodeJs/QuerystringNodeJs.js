@@ -21,7 +21,12 @@
 
 
 
-
+/**
+ * This is a partial implementation of NodeJs' querystring library.
+ * It has been modified to fit ClearBlade's requirements
+ * Thanks to https://github.com/mike-spainhower/querystring for src code
+ * Usage: const querystring = QuerystringNodeJs();
+ */
 function QuerystringNodeJs() {
     var _bufferNode = BufferNodeJs();
     var Buffer = _bufferNode.Buffer;
